@@ -53,7 +53,7 @@ Telegram-бот, который автоматически принимает з
 ### На локальном компьютере
 1. Скопируй репозиторий:
    ```bash
-   git clone https://github.com/твой-ник/ai-telegram-bot.git
+   git clone https://github.com/implicitinpicture-source/ai-telegram-bot.git
 Установи зависимости:
 
 bash
